@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">登录</string>
+    <string name="username">18289244425</string>
+    <string name="hint_pass">请输入微信密码</string>
+    <string name="msg_login">用短信验证登录</string>
+    <string name="findpass">找回密码</string>
+    <string name="froze">紧急冻结</string>
+    <string name="more">更多</string>
+</resources>
